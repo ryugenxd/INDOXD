@@ -1,7 +1,7 @@
 <div align="center">
 	<details>
 		<summary>JSO CONVERTER</summary>
-		<img alt="prev" src="./preview.png">
+		<img alt="prev" src="./Screenshot 2023-02-26 19.33.26.png">
 	</details>
 	<ul>
 		<li>
