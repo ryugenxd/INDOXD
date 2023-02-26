@@ -1,2 +1,11 @@
-# INDOXD
-apk jso converter offline 
+<div align="center">
+	<details>
+		<summary>PREVIEW JSO CONVERTER</summary>
+		<img alt="prev" src="./preview.png">
+	</details>
+	<ul>
+		<li>
+			<u>v 0.1</u>
+		</li>
+	</ul>
+<div>
