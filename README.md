@@ -1,6 +1,6 @@
 <div align="center">
 	<details>
-		<summary>PREVIEW JSO CONVERTER</summary>
+		<summary>JSO CONVERTER</summary>
 		<img alt="prev" src="./preview.png">
 	</details>
 	<ul>
